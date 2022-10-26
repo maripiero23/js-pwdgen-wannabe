@@ -22,3 +22,5 @@ h2CompleteUser.innerHTML = (userName + user2Name + userColor + 21)
 let name2NameColor=userName + " " +user2Name +userColor
 
 console.log("Total info=", name2NameColor)
+
+console.log(`L'utente si chiama + ${userName} + e di cognome fa + ${user2Name}+ mentre il suo colore preferito è il +${userColor}`)
