@@ -23,4 +23,4 @@ let nameCognomeColor=userName + " " +userCognome +userColor
 
 console.log("Total info=", nameCognomeColor)
 
-console.log(`L'utente si chiama + ${userName} + e di cognome fa + ${userCognome}+ mentre il suo colore preferito è il +${userColor}`)
+console.log(`L'utente si chiama  ${userName}  e di cognome fa  ${userCognome} mentre il suo colore preferito è il ${userColor}`)
