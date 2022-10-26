@@ -18,7 +18,7 @@ h2CompleteUser.innerHTML = userName + userCognome + userColor + 21;
 
 
 
-// FACENDO DELLE PROVE
+// FACENDO DELLE PROVE MIE
 let nameCognomeColor=userName + " " +userCognome +userColor
 
 console.log("Total info=", nameCognomeColor)
